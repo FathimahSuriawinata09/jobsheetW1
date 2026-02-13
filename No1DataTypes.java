@@ -1,5 +1,5 @@
 import java.util.*;
-class No1Solution {
+class No1DataTypes {
     public static void main(String []argh) {
 
         Scanner sc = new Scanner(System.in);
